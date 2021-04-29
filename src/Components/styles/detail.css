@@ -1,0 +1,10 @@
+
+/* style untuk contoh 2 */
+.table2 {
+    border-collapse: collapse;
+    width: 100%;
+}
+.table2 td, .table2 th {
+    border: thin solid #ccc;
+    padding: .2em;
+}
